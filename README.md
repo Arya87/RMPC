@@ -61,4 +61,4 @@ We also provide results of evaluation videos of three demos: Cartpolt-Swingup, C
 
 ## License & Acknowledgements
 
-R-TDMPC is licensed under the MIT license. [MuJoCo](https://github.com/deepmind/mujoco) and [DeepMind Control Suite](https://github.com/deepmind/dm_control) are licensed under the Apache 2.0 license. We thank the [DrQv2](https://github.com/facebookresearch/drqv2) and [TD-MPC](https://nicklashansen.github.io/td-mpc) authors for their implementation of DMControl wrappers.
+RMPC is licensed under the MIT license. [MuJoCo](https://github.com/deepmind/mujoco) and [DeepMind Control Suite](https://github.com/deepmind/dm_control) are licensed under the Apache 2.0 license. We thank the [DrQv2](https://github.com/facebookresearch/drqv2) and [TD-MPC](https://nicklashansen.github.io/td-mpc) authors for their implementation of DMControl wrappers.
