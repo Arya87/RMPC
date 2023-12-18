@@ -22,14 +22,6 @@ Planning has been proven to be an effective strategy for handling complex tasks 
   <img src='image/data-regularized-2.png' width="600"/>
 </p>
 
-## Results
-
-<p align="center">
-  <img src='image/overall.png' width="600"/>
-    <img src='image/ablation.png' width="600"/>
-</p>
-
-
 
 ## Instructions
 
